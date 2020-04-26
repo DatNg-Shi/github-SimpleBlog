@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>New Account</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+/*            .wapper {
+                background-color: blue;
+                width: 500px;
+                height: 100px;
+                
+            }
+            .wapper input {
+                float : right;
+            }*/
+        </style>
+    </head>
+    <body>
+        <h1>Create New Account</h1>
+        <form action="DispatchController" method="POST">
+            <div class="wapper">
+                Email* <input type="text" name="txtEmail" value="" /> (follow format chars@example.com)<br/> 
+                Password* <input type="password" name="txtPassword" value="" /> (6 - 30 chars)<br/>
+                Confirm* <input type="password" name="txtComfirm" value="" /><br/>
+                Full name* <input type="text" name="txtFullname" value="" /> (2 - 50 chars)<br/>
+                <input type="submit" value="Create New Account" name="btAction" />
+                <input type="reset" value="Reset" />
+            </div>
+        </form><br/>
+
+        <a href="login.html">Back</a>
+    </body>
+</html>

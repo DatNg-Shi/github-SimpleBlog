@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/CreateNewArticleServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/web/adminPage.jsp</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/web/articleSearch.jsp</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/UpdateArticleStatusServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/web/createNewArticle.jsp</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/WellcomePageServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/WellComeAdminServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/CommentServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/SearchArticleServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/DatNT/articles/ArticlesDTO.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/DaNT/ArticleStatus/ArticleStatusDAO.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/DetailArticleServlet.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/web/detailsArticle.jsp</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/sample/controler/DispatchController.java</file>
+            <file>file:/D:/CN5/Lab%20Web%20231/lab/J3.L.P0004_SimpleBlog/src/java/DatNT/articles/ArticlesDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
